@@ -1,0 +1,34 @@
+Lets create Virtual Enviroment
+
+1. We need to Instal the library of virtualenv
+
+MAC python3 pip install virtualenv
+
+WIN py -m pip install virtualenv
+
+2. Lets use the library
+
+MAC python3 -m<(model) venv venv <--- (Name of the folder)
+NOTE: THIS IS SOMETING THAT YOU  NEED TO DO DO EVERYTIME YOU WANT TO INTO THE PROJECT
+WIN py -m venv venv
+
+note cd == (change directory) to the folder that you want to use
+
+3. Lets launch the virual Enviromenmts
+MAC source venv/bin/activate
+WIN venv\Scripts\activate (repeat step 3 each time project is started)
+
+When we want to inatall flask
+
+MAAC python3 -m pip install
+WIN py -m pip install flask
+
+We use flask to create a server
+
+stackoverflow survey
+
+app is variable
+
+
+
+
